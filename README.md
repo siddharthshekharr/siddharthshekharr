@@ -28,12 +28,6 @@ Built a full-stack platform for contact management, AI qualification, email/SMS 
 
 *The source repositories for these commercial projects are private.*
 
-## Public code
-
-### [Skincare AI](https://github.com/siddharthshekharr/skincare-ai)
-
-An educational image-classification application combining **Next.js**, **FastAPI**, and **TensorFlow / MobileNetV2**. The repository includes a training pipeline, image preprocessing, an inference API, Docker configuration, and frontend/backend tests. It is an educational project, not a clinical diagnostic tool.
-
 ## Technologies
 
 | Area | Tools I work with |
@@ -41,7 +35,7 @@ An educational image-classification application combining **Next.js**, **FastAPI
 | Languages | TypeScript, JavaScript, Python, SQL |
 | Applications | React, Next.js, Node.js, FastAPI, Tailwind CSS |
 | Data | PostgreSQL, Prisma, Redis |
-| AI and integrations | AI SDK, OpenAI, TensorFlow, Stripe, Twilio, Microsoft Graph |
+| AI and integrations | AI SDK, OpenAI, Stripe, Twilio, Microsoft Graph |
 | Delivery and testing | Git, Docker, GitHub Actions, Vercel, Vitest, Playwright, pytest |
 
 ## Teaching and developer education
